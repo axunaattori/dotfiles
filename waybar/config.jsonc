@@ -34,7 +34,7 @@
 
     "clock": {
         "interval": 1,
-        "format": "{:%Z %H.%M.%S - %a, %d %b %Y}",
+        "format": "{:%Z %H.%M.%S - %a, %d.%m.%Y}",
         "tooltip": false
     },
 

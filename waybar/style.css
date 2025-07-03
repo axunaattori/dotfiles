@@ -6,6 +6,10 @@
     margin: 0;
 }
 
+window#waybar {
+    background-color: rgba(50, 50, 50, 255);
+}
+
 #tray,
 #clock,
 #cpu_text,
